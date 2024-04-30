@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "algebraic types"
+name = "alg_types"
 version = "0.1.0"
 description = ""
 authors = ["Prabhakar Dev <ayushashi11@gmail.com>"]
